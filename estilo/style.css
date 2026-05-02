@@ -32,3 +32,13 @@ section#telefone{
     background-image: url('../imagens/frame-iphone.png ') ;
     background-repeat: no-repeat;
 }
+iframe#pula{
+    position: relative;
+    top: 79px;
+    left: 21px;
+
+    width: 266px;
+    height: 469px;
+    
+    
+}
